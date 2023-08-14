@@ -1,0 +1,32 @@
+/* Write your CSS here */
+div {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+h1 {
+  color: #f0bb03;
+  font-size: 80px;
+  font-family: Bree Serif;
+  font-style: italic;
+}
+p {
+  font-size: 50px;
+  font-family: Bree Serif;
+  font-style: italic;
+  color: white;
+}
+button {
+  border: solid 2px none;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 30px;
+  font-family: bree serif;
+  color: black;
+  padding: 10px;
+}
